@@ -1,0 +1,56 @@
+/*.test{
+	display: inline-block;
+	background:red;
+	text-align: center;
+	width: 200px;
+}*/
+.d-block{
+	display: inline-block;
+}
+.logo img{
+	width: 100px;
+	vertical-align: middle;
+	margin-right:30px;
+}
+.navigation-li{
+	margin-right:15px;
+}
+.date{
+	background: #1B1BBC;
+	font-size: 40px;
+	color: #fff;
+	display: inline-block;
+	padding:5px;
+}
+.month{
+	font-size:20px;
+	color:blue;
+	margin-top:5px;
+}
+.container{
+	margin-left: 20px;
+}
+.teksti{
+	width: 760px;
+}
+.image{
+	width: 270px;
+	vertical-align: top;
+	margin-right: 15px;
+}
+.satauri{
+	margin: 15px 0;
+}
+.social-icon{
+	height: 30px;
+}
+.divider{
+	height: 30px;
+	background-color:#3D58A6;
+	width: 2px;
+	margin:0 10px;
+
+}
+.socials{
+	margin-top:15px;
+}
